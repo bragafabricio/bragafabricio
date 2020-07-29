@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 😁👋
+
+My name is Fabricio Braga. I am a Computer Scientist, passionate for technology and everything there is to learn about it. I could talk fow more than half an hour, without any headsup, about: classic videogames and videogames modding, rollerblading, learning and educational platforms and traveling.   
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/fabriciortbraga)
+
 
 <!--
 **bragafabricio/bragafabricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
