@@ -1,6 +1,6 @@
 ### Hi there 😁👋
 
-My name is Fabricio Braga. I am a Computer Scientist, passionate for technology and everything there is to learn about it. I could talk for more than half an hour, without any headsup, about: classic videogames and videogames modding, rollerblading, learning and educational platforms and traveling.   
+My name is Fabricio Braga. I am a Computer Scientist, passionate for technology and everything there is to learn about it. I could talk for more than half an hour, without any headsup, about: classic videogames and videogames modding, rollerblading, interaction design, learning and educational platforms and traveling.   
 
 Would you like to find me?
 
